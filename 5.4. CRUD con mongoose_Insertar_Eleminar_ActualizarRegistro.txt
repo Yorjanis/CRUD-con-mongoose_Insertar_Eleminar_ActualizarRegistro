@@ -1,0 +1,4 @@
+para insertar registro nada mas se cambia en la funcion el nombre, edad y peso y en eliminar registro la edad o peso y en 
+actualizar y consultar se cambia el peso todo esto en el archivo CRUD.js y en el index.js  en donde 
+dise Operaciones la accion a realizar ya sea eliminar, insertar, consultarYActualizar.
+en los tres ultimos proyectos de nodeDriveExamp tambien se pueden hacer en un solo proyecto como este
